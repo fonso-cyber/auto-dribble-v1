@@ -1,2 +1,2 @@
 # auto-dribble-v1
-i just made this for fun and yes it works
+if you close the gui u cannot open it back again, ill make a better one after and u got 4 types of dribble
